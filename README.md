@@ -5,4 +5,13 @@
 ## 3. 在 api-gateway 中配置路由
 ## 4. 执行 api-gateway 中 init-config.sh
 ## 5. 编译运行 api-gateway 
-## 6. 执行 start.sh                                                
+## 6. 执行 start.sh
+
+---
+
+## 结果
+![1](https://github.com/AndersIves/choerodon-study-service/blob/master/result/insertOrganization.png?raw=true)
+
+![2](https://github.com/AndersIves/choerodon-study-service/blob/master/result/insertUser.png?raw=true)                                            
+
+![3](https://github.com/AndersIves/choerodon-study-service/blob/master/result/getProject.png?raw=true)                                                                                            
